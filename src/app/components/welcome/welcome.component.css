@@ -1,0 +1,32 @@
+label{
+    margin-left: 25%;
+}
+
+#stars{
+    margin-left: 23%;
+}
+
+.titleposition{
+    margin-left: 4%;  
+}
+
+#cardRen{
+    width: 18rem;
+}
+
+.textWithe{
+
+    color: white;
+}
+
+.bgnice{
+    
+    background-color: rgb(75, 109, 202);
+}
+
+.border{ 
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: white;
+    border-radius: 100.3rem;
+}
